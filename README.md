@@ -1,5 +1,5 @@
 # HTTPFlooder
-HTTPFlooder aka a DDOS Tool
+HTTPFlooder aka a simple DDOS Tool
 
 Coded In C#
 Used for ddosing a site/ip
